@@ -93,5 +93,6 @@ document.addEventListener("DOMContentLoaded", (event) => {
     secondNumber = "";
     operator = null;
     display = "";
+    result = null;
   });
 });
